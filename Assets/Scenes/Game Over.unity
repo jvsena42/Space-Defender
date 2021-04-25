@@ -783,21 +783,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: Start Menu Canvas
       objectReference: {fileID: 0}
-    - target: {fileID: 5031192561826319592, guid: 524eefae19e6b07408cfbaceb63434a6,
-        type: 3}
-      propertyPath: m_ScreenMatchMode
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5031192561826319592, guid: 524eefae19e6b07408cfbaceb63434a6,
-        type: 3}
-      propertyPath: m_ReferenceResolution.x
-      value: 900
-      objectReference: {fileID: 0}
-    - target: {fileID: 5031192561826319592, guid: 524eefae19e6b07408cfbaceb63434a6,
-        type: 3}
-      propertyPath: m_ReferenceResolution.y
-      value: 1600
-      objectReference: {fileID: 0}
     - target: {fileID: 5031192561826319594, guid: 524eefae19e6b07408cfbaceb63434a6,
         type: 3}
       propertyPath: m_Pivot.x
@@ -1017,16 +1002,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5039960133637522135, guid: 6178d6bcc9e48434f96654779574febf,
-        type: 3}
-      propertyPath: m_ReferenceResolution.x
-      value: 900
-      objectReference: {fileID: 0}
-    - target: {fileID: 5039960133637522135, guid: 6178d6bcc9e48434f96654779574febf,
-        type: 3}
-      propertyPath: m_ReferenceResolution.y
-      value: 1600
       objectReference: {fileID: 0}
     - target: {fileID: 5039960133637522137, guid: 6178d6bcc9e48434f96654779574febf,
         type: 3}

@@ -495,11 +495,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: Start Menu Canvas
       objectReference: {fileID: 0}
-    - target: {fileID: 5031192561826319592, guid: 524eefae19e6b07408cfbaceb63434a6,
-        type: 3}
-      propertyPath: m_ScreenMatchMode
-      value: 2
-      objectReference: {fileID: 0}
     - target: {fileID: 5031192561826319594, guid: 524eefae19e6b07408cfbaceb63434a6,
         type: 3}
       propertyPath: m_Pivot.x
