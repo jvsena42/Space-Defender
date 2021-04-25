@@ -59,6 +59,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
 <<<<<<< HEAD:Assets/Prefabs/Game Canvas.prefab
+<<<<<<< HEAD:Assets/Prefabs/Game Canvas.prefab
 <<<<<<< HEAD:Assets/Prefabs/Score Canvas.prefab
   m_UiScaleMode: 1
   m_ReferencePixelsPerUnit: 100
@@ -72,6 +73,8 @@ MonoBehaviour:
   m_DynamicPixelsPerUnit: 1
 --- !u!114 &5039960133637522136
 =======
+=======
+>>>>>>> parent of 466a11a ([NEW]):Assets/Prefabs/Score Canvas.prefab
 =======
 >>>>>>> parent of 466a11a ([NEW]):Assets/Prefabs/Score Canvas.prefab
   m_Material: {fileID: 0}
@@ -97,7 +100,10 @@ MonoBehaviour:
   m_Text: 0000000
 --- !u!114 &1366025256
 <<<<<<< HEAD:Assets/Prefabs/Game Canvas.prefab
+<<<<<<< HEAD:Assets/Prefabs/Game Canvas.prefab
 >>>>>>> parent of 466a11a ([NEW]):Assets/Prefabs/Game Canvas.prefab
+=======
+>>>>>>> parent of 466a11a ([NEW]):Assets/Prefabs/Score Canvas.prefab
 =======
 >>>>>>> parent of 466a11a ([NEW]):Assets/Prefabs/Score Canvas.prefab
 MonoBehaviour:
