@@ -83,10 +83,6 @@ public class Player : MonoBehaviour
         FindObjectOfType<Level>().LoadGameOver();
     }
 
-    public int GetHealth(){
-        return health;
-    }
-
     IEnumerator FireContinuously(){
         while(true){
             GameObject laser = Instantiate(laserPrefab,transform.position,Quaternion.identity) as GameObject;
