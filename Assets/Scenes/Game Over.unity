@@ -891,6 +891,7 @@ PrefabInstance:
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 524eefae19e6b07408cfbaceb63434a6, type: 3}
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!1001 &7338758047104981880
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1010,5 +1011,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 6178d6bcc9e48434f96654779574febf, type: 3}
+=======
+>>>>>>> parent of 466a11a ([NEW])
 =======
 >>>>>>> parent of 466a11a ([NEW])
